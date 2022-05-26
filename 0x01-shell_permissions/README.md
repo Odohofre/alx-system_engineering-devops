@@ -1,1 +1,1 @@
-This is meant to teach about file permissions
+This for the basics of shell permissions
